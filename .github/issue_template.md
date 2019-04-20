@@ -1,7 +1,7 @@
-Dear friend we want to specify that this repo is {N} Playground related. 
+Dear friend, we want to specify that this repo is {N} Playground related. 
 Please use it to provide feedback or report an issue related to {N} Playground only.
 If your issue is related to {N} itself please report it to the [{N} repo](https://github.com/NativeScript/nativescript/issues)
-or search for solution in [Stack Overflow](https://stackoverflow.com/questions/tagged/nativescript).
+or search for a solution in [Stack Overflow](https://stackoverflow.com/questions/tagged/nativescript).
 All issues which are not related to {N} Playground will be closed. 
 
 We appreciate your feedback! While we are doing all we can to take care of every
@@ -39,7 +39,7 @@ letter.
 
 ### Are there any entries logged in the Device Logs tab?
 
-### Please provide the following information shown in devices tab in the playground:
+### Please provide the following information shown in the devices tab in the playground:
 - Model
 - OS version
 - Preview app version
